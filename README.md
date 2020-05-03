@@ -1,6 +1,6 @@
 **What is this?**
 
-Some quick-and-dirty gRPC clients/servers I coded for Stephane Maarek's course [gRPC [Java] Master Class: Build Modern API & Micro services](https://www.udemy.com/course/grpc-java/).
+Some quick-and-dirty gRPC clients/servers I coded for Stephane Maarek's course [gRPC Master Class: Build Modern API & Micro services](https://www.udemy.com/course/grpc-java/).
 
 There are even some printStackTrace(), but it got the job of learning gRPC done.
 
