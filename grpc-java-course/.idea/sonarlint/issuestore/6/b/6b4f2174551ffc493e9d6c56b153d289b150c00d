@@ -1,0 +1,15 @@
+
+T	java:S106("9Replace this use of System.out or System.err by a logger.(™‚@8Θεπ¬.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ά«ωΣ8Θεπ¬.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(΄ψ«ωÿÿÿÿ8Θεπ¬.
+V	java:S899?":Do something with the "boolean" value returned by "await".(‰ώΣκ8Θεπ¬.
+E
+java:S11487"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Θεπ¬.
+c
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8Θεπ¬.
+E
+java:S1148A"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Θεπ¬.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(άβΰÿÿÿÿÿ
+c
+java:S2142@"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8Θεπ¬.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Αµγ―

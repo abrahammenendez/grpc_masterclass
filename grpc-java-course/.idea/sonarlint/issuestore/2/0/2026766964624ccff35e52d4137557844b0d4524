@@ -1,0 +1,22 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áµã¯
+E
+java:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õˆ×Œ.
+[	java:S899C":Do something with the "boolean" value returned by "await".(Í ºÛüÿÿÿÿ8Õˆ×Œ.
+O
+java:S1135."2Complete the task associated to this TODO comment.(…ïœ†8ª¼ÏŒ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ïñú£ùÿÿÿÿ8ºÒ¾Œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üâà˜ÿÿÿÿÿ
+c
+java:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Õˆ×Œ.
+I
+java:S16029",Remove useless curly braces around statement(½Ñ‰È8ÛÚÓŒ.
+b
+java:S1854 "@Remove this useless assignment to local variable "greetRequest".(—éõıÿÿÿÿÿ8·ÙºŒ.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(àÈ ´ûÿÿÿÿ8ÆóÀŒ.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¨ªô¡üÿÿÿÿ8ÜĞŒ.
+S
+java:S1481 "1Remove this unused "greetRequest" local variable.(—éõıÿÿÿÿÿ8·ÙºŒ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(·÷“¥8™”ÀŒ.
+L
+java:S3740$"/Provide the parametrized type for this generic.(º×ªÆ8£Ê¼Œ.

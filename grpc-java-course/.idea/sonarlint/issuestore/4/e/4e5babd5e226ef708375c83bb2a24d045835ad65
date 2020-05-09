@@ -1,0 +1,19 @@
+
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(™á‰8€¥ÿ¿.
+h
+java:S1854B"FRemove this useless assignment to local variable "deleteBlogResponse".(§÷óşúÿÿÿÿ8€¥ÿ¿.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(í‚ä°şÿÿÿÿ8ù‹ö¿.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(®ÊòÛ8¦·†¾.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ïøƒœøÿÿÿÿ8Í§â¼.
+Y
+java:S1481B"7Remove this unused "deleteBlogResponse" local variable.(§÷óşúÿÿÿÿ8€¥ÿ¿.
+X	java:S125,"<This block of commented-out lines of code should be removed.(¡Š±Ë8½ªÜ¾.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÜË¡©8ĞİÈ¾.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(£ü‰ı8€¥ÿ¿.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ÎìÎâ8ù‹ö¿.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(†èºÿ8ƒ¹‡¾.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(“…½‡ùÿÿÿÿ8êÖÅ¾.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(—µ»¥üÿÿÿÿ8ù‹ö¿.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(šÛÃûÿÿÿÿ8ŸŠÀ.
+X	java:S125G"<This block of commented-out lines of code should be removed.(àîÌ™8ŸŠÀ.

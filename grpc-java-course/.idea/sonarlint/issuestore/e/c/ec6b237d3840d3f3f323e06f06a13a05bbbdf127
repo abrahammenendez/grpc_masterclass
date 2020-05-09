@@ -1,0 +1,25 @@
+
+P
+java:S1481".Remove this unused "firstName" local variable.(¦ ÚŠøÿÿÿÿ8‘ñì€.
+O
+java:S1135;"2Complete the task associated to this TODO comment.(…ïœ†8äõŸŒ.
+„
+java:S1488N"gImmediately return this expression instead of assigning it to the temporary variable "requestObserver".(Ú„ÜÅ8ì—Ö¬.
+E
+java:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óçüˆ.
+c
+java:S2142w"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ø·Ê¯.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 4 times.(îìõÖ8î¡™Œ.
+£
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µµöùÿÿÿÿ8ì—Ö¬.
+?
+java:S2252"This loop will never execute.(Š¸–¼úÿÿÿÿ8óçüˆ.
+c
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¾…üˆ.
+_
+java:S1854"=Remove this useless assignment to local variable "firstName".(¦ ÚŠøÿÿÿÿ8‘ñì€.
+„
+java:S14880"gImmediately return this expression instead of assigning it to the temporary variable "requestObserver".(¬Ï¹—8‰¬•Œ.
+E
+java:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø·Ê¯.

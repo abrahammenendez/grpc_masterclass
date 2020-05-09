@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ìš„Ù8úö±.
+c
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Îî·.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¨ªô¡üÿÿÿÿ8Îî·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( «œ±ûÿÿÿÿ8úö±.
+V	java:S8995":Do something with the "boolean" value returned by "await".(‰şÓê8Ë·µ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ç–—Êûÿÿÿÿ8úö±.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¸ë’€ıÿÿÿÿ8úö±.
+E
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Îî·.
+O
+java:S1135#"2Complete the task associated to this TODO comment.(…ïœ†8ıÿÓ.
+N
+java:S1602/",Remove useless curly braces around statement(ìŒ•ûÿÿÿÿ8©³ı¿.

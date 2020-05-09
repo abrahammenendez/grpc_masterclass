@@ -1,0 +1,29 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "author_id" 3 times.(…ÑÄ8õ«ç¿.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¦ÉÊí8ÍÜ¹¾.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(çÊ”Ç8³ÚÔ¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“¿Ôıÿÿÿÿ8¼¦¨½.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ8™Ûº¾.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ8³ÚÔ¿.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(íòŒæúÿÿÿÿ8‡É‡À.
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(¨İŠ‹ûÿÿÿÿ8·îı¿.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ø¢‘õúÿÿÿÿ8®‘­½.
+n
+java:S1192?"QDefine a constant instead of duplicating this literal "id was not found" 4 times.(“¡ƒÍ8ƒÔÓ¿.
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "title" 3 times.(¹„öÿÿÿÿÿ8õ«ç¿.
+~
+java:S1192?"aDefine a constant instead of duplicating this literal "The blog with the corresponding " 4 times.(“¡ƒÍ8ƒÔÓ¿.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ÃãÄì8®‘­½.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(œëÏ¶øÿÿÿÿ8·îı¿.
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ8·îı¿.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(†µåûÿÿÿÿ8æ»¾.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(Û×¹™8ˆòï¿.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ8·îı¿.
+d
+java:S1192!"HDefine a constant instead of duplicating this literal "content" 3 times.(ÊæâS8õ«ç¿.
+b
+java:S2259’"DA "NullPointerException" could be thrown; "result" is nullable here.(ÁùÄí8·îı¿.
+q
+java:S1192E"ODefine a constant instead of duplicating this literal "Blog not found" 4 times.(¤Î—Ïşÿÿÿÿ8·îı¿.
