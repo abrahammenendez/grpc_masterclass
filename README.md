@@ -15,7 +15,4 @@ There are even some printStackTrace(), but I just wanted to learn gRPC and it de
 
 I learned a lot, but Stephane spends way too much time doing kind of the same exercises over and over again. Don't feel bad if you want to skip some content, just make sure that you understand what you are doing.
 
-**Additional info**
-
-For the past six years I've taken a lot of courses in my free time. Sadly, I never thought about compiling them into a list. Since 2019, I've been trying to write down (and rate) every new course I take. You can see it [here](https://github.com/abrahammenendez/courses/).
 
